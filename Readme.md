@@ -42,6 +42,6 @@ This is our PyTorch implementation for the paper 2023'WWW:
 `python main_more.py --lambda_w 1 --sampler 0 --sample_num 200 --fix_seed --weighted --loss_type 2` for Softmax($\rho$, $N$)
 
 ## Acknowledgement
-The project is built upon [AdaSIR](https://github.com/HERECJ/AdaSIR)
+The project is built upon [AdaSIR](https://github.com/HERECJ/AdaSIR).
 
 For any clarification, comments, or suggestions please create an issue or contact me.
